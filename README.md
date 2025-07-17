@@ -1,6 +1,6 @@
 # Improving MLLM's Document Image Machine Translation via Synchronously Self-reviewing Its OCR Proficiency
 
-This is the official repository for **SSR** fine-tuning paradigm introduced by the following paper: [***Improving MLLM's Document Image Machine Translation via Synchronously Self-reviewing Its OCR Proficiency (ACL 2025 Findings)***](https://aclanthology.org/2024.naacl-long.392)
+This is the official repository for **SSR** fine-tuning paradigm introduced by the following paper: [***Improving MLLM's Document Image Machine Translation via Synchronously Self-reviewing Its OCR Proficiency (ACL 2025 Findings)***](https://arxiv.org/abs/2507.08309)
 
 ## 📜 Abstract
 Multimodal Large Language Models (MLLMs) have shown strong performance in document image tasks, especially Optical Character Recognition (OCR).
@@ -57,25 +57,21 @@ We thank [QwenLM](https://github.com/QwenLM/Qwen2.5-VL) project for providing th
 If you want to cite our paper, please use the following BibTex entries:
 ```BibTex
 @inproceedings{liang-etal-2024-document,
-    title = "Document Image Machine Translation with Dynamic Multi-pre-trained Models Assembling",
+    title = "Improving MLLM's Document Image Machine Translation via Synchronously Self-reviewing Its OCR Proficiency",
     author = "Liang, Yupu  and
       Zhang, Yaping  and
-      Ma, Cong  and
       Zhang, Zhiyang  and
+      Chen, Zhiyuan and
       Zhao, Yang  and
       Xiang, Lu  and
       Zong, Chengqing  and
       Zhou, Yu",
-    editor = "Duh, Kevin  and
-      Gomez, Helena  and
-      Bethard, Steven",
-    booktitle = "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
-    month = jun,
-    year = "2024",
-    address = "Mexico City, Mexico",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics",
+    month = july,
+    year = "2025",
+    address = "Vienna, Austria",
     publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2024.naacl-long.392",
-    pages = "7077--7088",
+    url = "https://arxiv.org/abs/2507.08309",
 }
 ```
 If you have any question, feel free to contact [liangyupu2021@ia.ac.cn](mailto:liangyupu2021@ia.ac.cn).
