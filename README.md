@@ -1,6 +1,6 @@
 # Improving MLLM's Document Image Machine Translation via Synchronously Self-reviewing Its OCR Proficiency
 
-This is the official repository for **SSR** fine-tuning paradigm introduced by the following paper: [***Improving MLLM's Document Image Machine Translation via Synchronously Self-reviewing Its OCR Proficiency (ACL 2025 Findings)***](https://arxiv.org/abs/2507.08309)
+This is the official repository for **SSR** fine-tuning paradigm introduced by the following paper: [***Improving MLLM's Document Image Machine Translation via Synchronously Self-reviewing Its OCR Proficiency (ACL 2025 Findings)***](https://aclanthology.org/2025.findings-acl.1213/)
 
 ## 📜 Abstract
 Multimodal Large Language Models (MLLMs) have shown strong performance in document image tasks, especially Optical Character Recognition (OCR).
@@ -56,22 +56,28 @@ We thank [QwenLM](https://github.com/QwenLM/Qwen2.5-VL) project for providing th
 ## ✍🏻 Citation
 If you want to cite our paper, please use the following BibTex entries:
 ```BibTex
-@inproceedings{liang-etal-2024-document,
-    title = "Improving MLLM's Document Image Machine Translation via Synchronously Self-reviewing Its OCR Proficiency",
+@inproceedings{liang-etal-2025-improving,
+    title = "Improving {MLLM}{'}s Document Image Machine Translation via Synchronously Self-reviewing Its {OCR} Proficiency",
     author = "Liang, Yupu  and
       Zhang, Yaping  and
       Zhang, Zhiyang  and
-      Chen, Zhiyuan and
+      Chen, Zhiyuan  and
       Zhao, Yang  and
       Xiang, Lu  and
       Zong, Chengqing  and
       Zhou, Yu",
-    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics",
-    month = july,
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
+    month = jul,
     year = "2025",
     address = "Vienna, Austria",
     publisher = "Association for Computational Linguistics",
-    url = "https://arxiv.org/abs/2507.08309",
+    url = "https://aclanthology.org/2025.findings-acl.1213/",
+    pages = "23659--23678",
+    ISBN = "979-8-89176-256-5",
 }
 ```
 If you have any question, feel free to contact [liangyupu2021@ia.ac.cn](mailto:liangyupu2021@ia.ac.cn).
