@@ -80,4 +80,4 @@ If you want to cite our paper, please use the following BibTex entries:
     ISBN = "979-8-89176-256-5",
 }
 ```
-If you have any question, feel free to contact [liangyupu2021@ia.ac.cn](mailto:liangyupu2021@ia.ac.cn).
+If you have any question, feel free to contact [zhangyaping2015@ia.ac.cn](mailto:zhangyaping2015@ia.ac.cn).
